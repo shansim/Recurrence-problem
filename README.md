@@ -34,5 +34,3 @@ The code defines three functions: `recursiveSequence`, `iterativeSequence`, and 
 In the `main` function, the code sets the value of `n` to 12. It then initializes an array `memo` with -1 values. The code calls each of the three functions to calculate the sequence for `n` and prints the results using `printf`.
 
 The output will display the calculated values for the recursive, iterative, and memoized approaches.
-
-That's it! The README file provides an explanation of the development environment, instructions on how to compile and run the code, and an overview of the functionality of the code.
