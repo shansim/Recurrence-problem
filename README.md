@@ -31,6 +31,6 @@ The code defines three functions: `recursiveSequence`, `iterativeSequence`, and 
 - `iterativeSequence` uses an iterative approach to calculate the sequence.
 - `memoizedSequence` uses memoization to store and reuse calculated values, improving performance.
 
-In the `main` function, the code sets the value of `n` to 12. It then initializes an array `memo` with -1 values. The code calls each of the three functions to calculate the sequence for `n` and prints the results using `printf`.
+In the `main` function, the code prompts the user to enter the value of `n`. It then initializes an array `memo` with -1 values. The code calls each of the three functions to calculate the sequence for `n` and prints the results using `printf`.
 
 The output will display the calculated values for the recursive, iterative, and memoized approaches.
